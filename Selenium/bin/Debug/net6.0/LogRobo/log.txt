@@ -1,0 +1,18 @@
+21/04/2023 12:12:04 >>> Inicializando: Robo
+21/04/2023 12:12:06 >>> Acessando Pagina
+21/04/2023 12:12:07 >>> Tentando realizar o download
+21/04/2023 12:12:08 >>> Download Concluido com sucesso!
+21/04/2023 12:12:15 >>> Extraindo marcadores do PDF.
+21/04/2023 12:12:15 >>> Iniciando a exportação dos marcadores
+21/04/2023 12:12:15 >>> Iniciando a inserção de conteúdo
+21/04/2023 12:12:16 >>> Finalizando a inserção de conteúdo
+21/04/2023 12:12:16 >>> Planilha salva com sucesso
+21/04/2023 12:18:19 >>> Inicializando: Robo
+21/04/2023 12:18:21 >>> Acessando Pagina
+21/04/2023 12:18:21 >>> Tentando realizar o download
+21/04/2023 12:18:26 >>> Download Concluido com sucesso!
+21/04/2023 12:18:29 >>> Extraindo marcadores do PDF.
+21/04/2023 12:18:29 >>> Iniciando a exportação dos marcadores
+21/04/2023 12:18:30 >>> Iniciando a inserção de conteúdo
+21/04/2023 12:18:30 >>> Finalizando a inserção de conteúdo
+21/04/2023 12:18:31 >>> Planilha salva com sucesso
