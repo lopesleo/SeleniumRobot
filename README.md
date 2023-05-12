@@ -1,7 +1,6 @@
 # Como executar a automação do Diário Oficial com Selenium
 
-Este projeto tem como objetivo automatizar a extração de marcadores do Diário Oficial utilizando o Selenium WebDriver e o pacote OfficeOpenXml para manipulação de planilhas Excel. Neste guia, vamos apresentar um passo a passo para executar a automação em outra máquina.
-
+Este projeto tem como objetivo automatizar a extração de marcadores do Diário Oficial utilizando o Selenium WebDriver e o pacote OfficeOpenXml para manipulação de planilhas Excel. Neste guia, vamos apresentar um passo a passo para executar a automação.
 ## Pré-requisitos
 Antes de executar a automação, é necessário ter instalado em sua máquina os seguintes softwares:
 
@@ -40,7 +39,7 @@ Pronto! Agora você pode executar a automação do Diário Oficial em sua máqui
 
 # How to Run the Official Gazette Automation with Selenium
 
-This project aims to automate the extraction of markers from the Official Gazette using Selenium WebDriver and the OfficeOpenXml package for manipulating Excel spreadsheets. In this guide, we will provide a step-by-step guide to running the automation on another machine.
+This project aims to automate the extraction of markers from the Official Gazette using Selenium WebDriver and the OfficeOpenXml package for manipulating Excel spreadsheets. In this guide, we will provide a step-by-step guide to running the automation.
 
 # Prerequisites
 Before running the automation, you must have the following software installed on your machine:
